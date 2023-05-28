@@ -74,8 +74,8 @@ class WordleFragment: Fragment() {
                     LinearLayout.LayoutParams.WRAP_CONTENT,
                     LinearLayout.LayoutParams.WRAP_CONTENT
                 ).apply {
-                    height = 205
-                    width = 205
+                    height = 150
+                    width = 150
                 }
 
                 // Set click listener, background color, etc.
